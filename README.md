@@ -55,5 +55,11 @@
   <img src="https://skillicons.dev/icons?i=python,visualstudio,blender,photoshop,illustrator,notion" /><br>
 </div>
 
-<br/>
+<div align="center">
+  
+  ![snake gif](https://github.com/St33pFx/St33pFx/blob/output/github-snake-dark.svg)
+  
+</div>
+
+
 
