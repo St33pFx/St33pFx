@@ -18,9 +18,9 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=St33pFx&show_icons=true&locale=en" alt="St33pFx" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=St33pFx&show_icons=true&locale=en" alt="St33pFx" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=St33pFx&" alt="St33pFx" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=St33pFx&show_icons=true&locale=en&layout=compact" alt="St33pFx" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=St33pFx" alt="St33pFx" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=St33pFx" alt="St33pFx" /></a></p> -->
 
 # St33pDev
