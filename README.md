@@ -1,4 +1,5 @@
 <h1>Hi 👋, I'm Yahir</h1>
+### 🚀 Currently working on:
 <p>🎮 Game Developer • ✨ Motion Designer • 🎨 UX/UI Designer</p>
 <p>📘 Currently studying Game Design & Game Development</p>
 <p>🏢Working as freelancer since 2020</p>
