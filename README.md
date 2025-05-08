@@ -1,4 +1,4 @@
-<a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
+<a href="https://github.com/St33pFx/St33pFx/blob/main/dayum.gif">
   <img src="https://github.com/St33pFx/St33pFx/blob/main/dayum.gif" alt="PersonPixelated GIF" style="width:auto; height:auto"/>
 </a>
 
